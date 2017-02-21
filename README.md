@@ -1,4 +1,6 @@
 # Physio
+![alt tag](https://github.com/BigCorvus/Physio/blob/master/Pics/Physio1.0.jpg)
+
 My take on an (almost) open source development platform for a versatile wireless monitoring device that combines ECG, impedance pneumography, photoplethysmography, SPO2 calculation, galvanic skin response, NIBP wrist measurement as well as well as body temperature measurement in one wearable. 
 
 Physio is based on a CK101 wrist blood pressure monitor, a CMS50C pulse oximeter, an ADS1292R analog front end for ECG and impedance pneumography (respiration monitoring via ECG electrodes), a MAX30205 human body temperature sensor and an ADXL345 accelerometer. The GSR measurement is also working fine so far, but it's interfering with the ADS1292R so only one of them can be used at a time. A Teensy 3.2 ties everythings together and uses an HC-05 bluetooth module for communication.
