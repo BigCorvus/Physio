@@ -8,4 +8,6 @@ The carrier PCB of the current Physio version is designed for the great ADS1292R
 
 The Android app is based on the Amarino platform, so you have to download and install the Amarino App in order for this app to work (https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/amarino/Amarino_2_v0_55.apk). The recording feature is not working yet and will be improved in the future.
 
-Note: this is not a medical device, but a development platform for educational and research purposes.
+In order to get the best ECG and respiration data I recommend placing the electrodes according to the "Einthoven II" lead.
+
+Note: this is not a medical device, but a development platform for educational and research purposes. I'm assuming you know what you're doing.
