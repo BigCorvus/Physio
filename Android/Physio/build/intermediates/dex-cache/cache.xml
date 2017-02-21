@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d97b9e0044934cd983d7bf7033935ac78db79e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b63733c56140e4d72b27e2993a028042197d6b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7548638c9cd13a92a3b1463bbcc59386e4734491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.androidplot\androidplot-core\0.9.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614dc76ebb5d52053e3fc6572721873744524fb7">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.androidplot-androidplot-core-0.9.8_44323328f904e4aefdd9631ed087461fed1199b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c7a19cddb98eb3e441a4614b299de1292d9ce4f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\libs\GraphView-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-4.0.1_948438068a1f32f89b357cc063a17dccab100bb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_404cc98cd11d0efcebb1217d5760c4c2c908657f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\libs\AmarinoLibrary_v0_55.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e529684291e11458a75a22b4499a54b5280321c">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\2\AmarinoLibrary_v0_55_4021ba812c508258090711f5f559651c76ad5844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ec7253b2ca11e5edc2af35f98a01d87e7644c69f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_756b1901d37ecac052399d41ceecefd10a5a88fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27194307c4de321516242fa782513b8e63231102">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ab6f418b93fdb82a6113fce1f7c96b79b1cd9efe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f71e66bea5eec9522248df88a83fc3eef7c9bc4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_193e10c1371af37a86b732f8758b7204ae607e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fe9f574aa7482708593c85a097a3dde76e208f77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cab0af48d155aaeefc989bbee61618acb263c417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5fb24553799a9ba422d108ccc5128c4535fd48a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\libs\GraphView-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e187192858ff7a5ff7864d6f6a754427e6cb3a87">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-3.0_5596ef2ec4694fbad0bd35a321d7e4a70958503b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2fc66a993cb0485ce0ba8eefffcd940ae2f5138">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b24a4d3051ef0d42fcbbc00becdb54d02d1cdf3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8835ae8b09fc5b08ae204b5b0311ca39b6027ac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6def19e8966a6fffb51135ff8a7f71c5b322056d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Kauzdesktop\Desktop\Android Studio Projects\Physio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_22cc00141b3794b455344905972c92ac97fab10c\classes.dex" />
+    </item>
+
+</items>
