@@ -7,3 +7,5 @@ Physio is based on a CK101 wrist blood pressure monitor, a CMS50C pulse oximeter
 The carrier PCB of the current Physio version is designed for the great ADS1292R breakout board by protocentral->https://github.com/Protocentral/ADS1292rShield_Breakout
 
 The Android app is based on the Amarino platform, so you have to download and install the Amarino App in order for this app to work (https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/amarino/Amarino_2_v0_55.apk). The recording feature is not working yet and will be improved in the future.
+
+Note: this is not a medical device, but a development platform for educational and research purposes.
