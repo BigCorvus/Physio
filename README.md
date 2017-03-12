@@ -10,4 +10,6 @@ The Android app is based on the Amarino platform, so you have to download and in
 
 In order to get the best ECG and respiration data I recommend placing the electrodes according to the "Einthoven II" lead.
 
+Short demo video with crappy electrodes: https://youtu.be/U5jK3dh345U
+
 Note: this is not a medical device, but a development platform for educational and research purposes. I'm assuming you know what you're doing.
